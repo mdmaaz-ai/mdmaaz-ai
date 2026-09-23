@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/mdmaaz-ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Final-Year+B.Tech+CSE+Student;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Deep+Learning+%26+Medical+Image+Classification;Full-Stack+Development+with+PHP+%26+React;Building+practical+solutions+with+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Final-Year+B.Tech+CSE+Student;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Healthcare+Web+Apps+with+AI+Integration;Full-Stack+Development+with+PHP+%26+React;Building+practical+solutions+with+data" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -43,7 +43,7 @@ const mohammedMaaz = {
     "MySQL", "Git", "GitHub", "VS Code"
   ],
   launchedProjects: [
-    "Diabetic Retinopathy Detection using Deep Learning",
+    "Neesham Healthcare Web App",
     "Student Finance Management System"
   ],
   status: "B.Tech CSE @ MGM's JNEC (Expected 2027), building the Neesham Healthcare final year project",
@@ -60,20 +60,21 @@ const mohammedMaaz = {
 
 ## 🚀 Featured Projects
 
-### 🔬 Diabetic Retinopathy Detection using Deep Learning
+### 🏥 Neesham Healthcare (Industry-Sponsored Final Year Project)
 
-A deep learning classification model that sorts retinal images into diabetic retinopathy severity categories, using EfficientNetB0 transfer learning with a full preprocessing, training, evaluation, and prediction workflow.
+A responsive healthcare web application with an AI-powered assistance module that gives real-time healthcare guidance and pharmaceutical product information, backed by a MySQL database for users, products, appointments, and chat logs.
 
-<a href="https://github.com/mdmaaz-ai/Diabetic-Retinopathy-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz-ai&repo=Diabetic-Retinopathy-Detection&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9&bg_color=2e3440" alt="Diabetic Retinopathy Detection repo card" />
+<a href="https://github.com/mdmaaz-ai/Neesham-Healthcare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz-ai&repo=Neesham-Healthcare&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9&bg_color=2e3440" alt="Neesham Healthcare repo card" />
 </a>
 
 | Layer | Technology |
 | --- | --- |
-| Model | EfficientNetB0 (Transfer Learning) |
-| Framework | TensorFlow, Keras |
-| Data Processing | Python, NumPy, Pandas |
-| Task | Retinal image severity classification |
+| Frontend | HTML5, CSS3, ES6 JavaScript |
+| Backend | PHP |
+| Database | MySQL |
+| AI Module | Real-time healthcare guidance and pharmaceutical product information |
+| Features | Appointment schedules, chat logs, customer inquiries, dynamic content |
 
 ### 💰 Student Finance Management System
 
