@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- PROFILE PHOTO -->
-<img src="https://raw.githubusercontent.com/mdmaaz-ai/mdmaaz-ai/main/profile.JPG" width="160" alt="Mohammed Maaz" />
+<img src="https://raw.githubusercontent.com/mdmaaz-ai/mdmaaz-ai/main/profile.png" width="160" alt="Mohammed Maaz" />
 
 <br/><br/>
 
