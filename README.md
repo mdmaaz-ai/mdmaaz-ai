@@ -1,15 +1,19 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-
-<img src="https://raw.githubusercontent.com/mdmaaz-ai/mdmaaz-ai/main/profile.jpg" width="160" alt="Mohammed Maaz" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Mohammed%20Maaz&fontSize=52&fontColor=0b1220&animation=twinkling&fontAlignY=36&desc=Final-Year%20CSE%20Student%20%7C%20Data%20%26%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&descColor=0b1220" width="100%" alt="Mohammed Maaz header banner" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/mdmaaz-ai">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Final-Year+B.Tech+CSE+Student;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Deep+Learning+%26+Medical+Image+Classification;Full-Stack+Development+with+PHP+%26+React;Building+practical+solutions+with+data" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<!-- PROFILE PHOTO -->
+<img src="https://raw.githubusercontent.com/mdmaaz-ai/mdmaaz-ai/main/profile.png" width="160" alt="Mohammed Maaz" />
+
+<br/><br/>
 
 <!-- OPEN TO WORK -->
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Internships-7dd3fc?style=for-the-badge&labelColor=0b1220" alt="Open to work" />
