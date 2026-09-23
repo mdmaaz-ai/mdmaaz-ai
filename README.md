@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Mohammed%20Maaz&fontSize=52&fontColor=0b1220&animation=twinkling&fontAlignY=36&desc=Final-Year%20CSE%20Student%20%7C%20Data%20%26%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&descColor=0b1220" width="100%" alt="Mohammed Maaz header banner" />
+
+<img src="https://raw.githubusercontent.com/mdmaaz-ai/mdmaaz-ai/main/profile.jpg" width="160" alt="Mohammed Maaz" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/mdmaaz-ai">
